@@ -30,6 +30,10 @@ Project Appium maven with cucumber for Android and iOS
 
 ## Video Running Automation : 
 
+https://user-images.githubusercontent.com/49465828/221181013-5ac9617d-0290-4a7f-a39c-4f4902554a2b.mov
+
+
+
 
 
 
