@@ -14,9 +14,9 @@ Appium maven with cucumber for Android
 1. Start appium server: `$ appium`
 2. Installation this [apk](https://m.apkpure.com/to-do-list/com.splendapps.splendo/download?from=details) on real device or emulator
 3. Run android real device
-   tests: `$ mvn clean test -Dcucumber.filter.tags="@here_tag" -Denv. PLATAFORM=ANDROID_REAL_DEVICE`
+   tests: `$ mvn clean test -Dcucumber.filter.tags="@here_tag" -Denv.PLATAFORM=ANDROID_REAL_DEVICE`
 4. Run android emulator
-   tests: `$ mvn clean test -Dcucumber.filter.tags="@here_tag" -Denv. PLATAFORM=ANDROID_EMULATOR`
+   tests: `$ mvn clean test -Dcucumber.filter.tags="@here_tag" -Denv.PLATAFORM=ANDROID_EMULATOR`
 
 ### Notes :
 1. For running real device your update udid in file android-real-device.json from package capibillities
