@@ -1,6 +1,6 @@
-# QA Mobile
+# Software Development Engineer in Test
 
-Project Appium maven with cucumber for Android and iOS
+Appium maven with cucumber for Android
 
 ## Requirements
 
