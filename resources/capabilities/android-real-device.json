@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "deviceName": "oreo",
+  "automationName": "UiAutomator2",
+  "udid": "Z5JZ5DEYMRTOVKHE",
+  "newCommandTimeout": 10
+}
+

@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "deviceName": "Android",
+  "platformVersion": "9.0",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "noReset": true,
+  "newCommandTimeout": 10
+}
+
