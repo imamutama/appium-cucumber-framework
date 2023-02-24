@@ -5,7 +5,7 @@ Appium maven with cucumber for Android
 ## Requirements
 
 * Java 8
-* Appium 1.8.1
+* Appium 1.22.3
 * Maven
 * Android Real Device or Emulator
 
@@ -30,9 +30,7 @@ Appium maven with cucumber for Android
 
 ## Video Running Automation : 
 
-https://user-images.githubusercontent.com/49465828/221181013-5ac9617d-0290-4a7f-a39c-4f4902554a2b.mov
-
-
+https://user-images.githubusercontent.com/49465828/221190773-32fd2182-6809-4ed1-9455-075725708298.mp4
 
 
 
