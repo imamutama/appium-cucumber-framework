@@ -55,24 +55,4 @@ public class ConvertDate {
         System.out.println("" + date);
         return output.split("-")[2];
     }
-
-    @Test
-    public void test() {
-        System.out.println(getDateTommorow());
-    }
-
-    @Test
-    public void test1(){
-        List<String>e = new ArrayList<>();
-        e.add("tesst1");
-        e.add("test2");
-        e.add("test3");
-        for(int i =0; i< e.size(); i++){
-            if(e.get(i).contains("tesst1")){
-                System.out.println("hasil"+e.get(i));
-            }
-        }
-
-
-    }
 }
